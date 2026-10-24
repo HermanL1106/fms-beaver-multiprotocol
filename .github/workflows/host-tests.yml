@@ -1,0 +1,21 @@
+name: Offline firmware regression tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  host-tests:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Install host test dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes clang python3
+      - name: Verify fixtures, firmware source and binary
+        run: python3 scripts/verify.py
+      - name: Run actual-source tests with ASan and UBSan
+        run: sh run-tests.sh

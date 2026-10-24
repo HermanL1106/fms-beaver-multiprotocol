@@ -1,0 +1,1600 @@
+{
+  "counts": {
+    "wire": 128,
+    "decoder": 137
+  },
+  "fixture_sha256": "17c221b589d41f983f19e2cefce07eff92b80bd1538b69e77a597af5055e54a0",
+  "note": "Unmodified selected original log lines; line numbers are one-based.",
+  "lines": [
+    {
+      "fixture_line": 1,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 106
+    },
+    {
+      "fixture_line": 2,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 108
+    },
+    {
+      "fixture_line": 3,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 110
+    },
+    {
+      "fixture_line": 4,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 114
+    },
+    {
+      "fixture_line": 5,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 118
+    },
+    {
+      "fixture_line": 6,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 122
+    },
+    {
+      "fixture_line": 7,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 124
+    },
+    {
+      "fixture_line": 8,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 128
+    },
+    {
+      "fixture_line": 9,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 175
+    },
+    {
+      "fixture_line": 10,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 219
+    },
+    {
+      "fixture_line": 11,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 275
+    },
+    {
+      "fixture_line": 12,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 343
+    },
+    {
+      "fixture_line": 13,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 377
+    },
+    {
+      "fixture_line": 14,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 387
+    },
+    {
+      "fixture_line": 15,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 483
+    },
+    {
+      "fixture_line": 16,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 573
+    },
+    {
+      "fixture_line": 17,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 637
+    },
+    {
+      "fixture_line": 18,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 663
+    },
+    {
+      "fixture_line": 19,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 687
+    },
+    {
+      "fixture_line": 20,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 743
+    },
+    {
+      "fixture_line": 21,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 749
+    },
+    {
+      "fixture_line": 22,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 757
+    },
+    {
+      "fixture_line": 23,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 823
+    },
+    {
+      "fixture_line": 24,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 935
+    },
+    {
+      "fixture_line": 25,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1071
+    },
+    {
+      "fixture_line": 26,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1073
+    },
+    {
+      "fixture_line": 27,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1076
+    },
+    {
+      "fixture_line": 28,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1078
+    },
+    {
+      "fixture_line": 29,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1081
+    },
+    {
+      "fixture_line": 30,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1085
+    },
+    {
+      "fixture_line": 31,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1087
+    },
+    {
+      "fixture_line": 32,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1092
+    },
+    {
+      "fixture_line": 33,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1098
+    },
+    {
+      "fixture_line": 34,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1100
+    },
+    {
+      "fixture_line": 35,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1102
+    },
+    {
+      "fixture_line": 36,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1107
+    },
+    {
+      "fixture_line": 37,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1109
+    },
+    {
+      "fixture_line": 38,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1112
+    },
+    {
+      "fixture_line": 39,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1114
+    },
+    {
+      "fixture_line": 40,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1117
+    },
+    {
+      "fixture_line": 41,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1120
+    },
+    {
+      "fixture_line": 42,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1125
+    },
+    {
+      "fixture_line": 43,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1131
+    },
+    {
+      "fixture_line": 44,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1135
+    },
+    {
+      "fixture_line": 45,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1137
+    },
+    {
+      "fixture_line": 46,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1139
+    },
+    {
+      "fixture_line": 47,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1141
+    },
+    {
+      "fixture_line": 48,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1143
+    },
+    {
+      "fixture_line": 49,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1145
+    },
+    {
+      "fixture_line": 50,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1154
+    },
+    {
+      "fixture_line": 51,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1156
+    },
+    {
+      "fixture_line": 52,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1158
+    },
+    {
+      "fixture_line": 53,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1160
+    },
+    {
+      "fixture_line": 54,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1162
+    },
+    {
+      "fixture_line": 55,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1165
+    },
+    {
+      "fixture_line": 56,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1167
+    },
+    {
+      "fixture_line": 57,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1172
+    },
+    {
+      "fixture_line": 58,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1174
+    },
+    {
+      "fixture_line": 59,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1176
+    },
+    {
+      "fixture_line": 60,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1181
+    },
+    {
+      "fixture_line": 61,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1184
+    },
+    {
+      "fixture_line": 62,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1187
+    },
+    {
+      "fixture_line": 63,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1190
+    },
+    {
+      "fixture_line": 64,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1195
+    },
+    {
+      "fixture_line": 65,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1197
+    },
+    {
+      "fixture_line": 66,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1200
+    },
+    {
+      "fixture_line": 67,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1207
+    },
+    {
+      "fixture_line": 68,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1210
+    },
+    {
+      "fixture_line": 69,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1213
+    },
+    {
+      "fixture_line": 70,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1217
+    },
+    {
+      "fixture_line": 71,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1223
+    },
+    {
+      "fixture_line": 72,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1227
+    },
+    {
+      "fixture_line": 73,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1229
+    },
+    {
+      "fixture_line": 74,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1232
+    },
+    {
+      "fixture_line": 75,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1234
+    },
+    {
+      "fixture_line": 76,
+      "kind": "decoder",
+      "original_file": "serial-20261022T072014Z.log",
+      "original_line": 1236
+    },
+    {
+      "fixture_line": 77,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 27
+    },
+    {
+      "fixture_line": 78,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 31
+    },
+    {
+      "fixture_line": 79,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 34
+    },
+    {
+      "fixture_line": 80,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 60
+    },
+    {
+      "fixture_line": 81,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 213
+    },
+    {
+      "fixture_line": 82,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 217
+    },
+    {
+      "fixture_line": 83,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 250
+    },
+    {
+      "fixture_line": 84,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 258
+    },
+    {
+      "fixture_line": 85,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 262
+    },
+    {
+      "fixture_line": 86,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 269
+    },
+    {
+      "fixture_line": 87,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 272
+    },
+    {
+      "fixture_line": 88,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 274
+    },
+    {
+      "fixture_line": 89,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 277
+    },
+    {
+      "fixture_line": 90,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 280
+    },
+    {
+      "fixture_line": 91,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 284
+    },
+    {
+      "fixture_line": 92,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 303
+    },
+    {
+      "fixture_line": 93,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 311
+    },
+    {
+      "fixture_line": 94,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 316
+    },
+    {
+      "fixture_line": 95,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 325
+    },
+    {
+      "fixture_line": 96,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 345
+    },
+    {
+      "fixture_line": 97,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 352
+    },
+    {
+      "fixture_line": 98,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 370
+    },
+    {
+      "fixture_line": 99,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 373
+    },
+    {
+      "fixture_line": 100,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 375
+    },
+    {
+      "fixture_line": 101,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 377
+    },
+    {
+      "fixture_line": 102,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 380
+    },
+    {
+      "fixture_line": 103,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 389
+    },
+    {
+      "fixture_line": 104,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 406
+    },
+    {
+      "fixture_line": 105,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 408
+    },
+    {
+      "fixture_line": 106,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 414
+    },
+    {
+      "fixture_line": 107,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 417
+    },
+    {
+      "fixture_line": 108,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 422
+    },
+    {
+      "fixture_line": 109,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 433
+    },
+    {
+      "fixture_line": 110,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 445
+    },
+    {
+      "fixture_line": 111,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 451
+    },
+    {
+      "fixture_line": 112,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 462
+    },
+    {
+      "fixture_line": 113,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 475
+    },
+    {
+      "fixture_line": 114,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 478
+    },
+    {
+      "fixture_line": 115,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 480
+    },
+    {
+      "fixture_line": 116,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 496
+    },
+    {
+      "fixture_line": 117,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 531
+    },
+    {
+      "fixture_line": 118,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 537
+    },
+    {
+      "fixture_line": 119,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 540
+    },
+    {
+      "fixture_line": 120,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 546
+    },
+    {
+      "fixture_line": 121,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 557
+    },
+    {
+      "fixture_line": 122,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 564
+    },
+    {
+      "fixture_line": 123,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 567
+    },
+    {
+      "fixture_line": 124,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 570
+    },
+    {
+      "fixture_line": 125,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 577
+    },
+    {
+      "fixture_line": 126,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 594
+    },
+    {
+      "fixture_line": 127,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 605
+    },
+    {
+      "fixture_line": 128,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 607
+    },
+    {
+      "fixture_line": 129,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 611
+    },
+    {
+      "fixture_line": 130,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 628
+    },
+    {
+      "fixture_line": 131,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 630
+    },
+    {
+      "fixture_line": 132,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 634
+    },
+    {
+      "fixture_line": 133,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 637
+    },
+    {
+      "fixture_line": 134,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 644
+    },
+    {
+      "fixture_line": 135,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 646
+    },
+    {
+      "fixture_line": 136,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 649
+    },
+    {
+      "fixture_line": 137,
+      "kind": "decoder",
+      "original_file": "serial-20261022T073654Z.log",
+      "original_line": 654
+    },
+    {
+      "fixture_line": 138,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 13
+    },
+    {
+      "fixture_line": 139,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 14
+    },
+    {
+      "fixture_line": 140,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 15
+    },
+    {
+      "fixture_line": 141,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 16
+    },
+    {
+      "fixture_line": 142,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 17
+    },
+    {
+      "fixture_line": 143,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 18
+    },
+    {
+      "fixture_line": 144,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 19
+    },
+    {
+      "fixture_line": 145,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 20
+    },
+    {
+      "fixture_line": 146,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 21
+    },
+    {
+      "fixture_line": 147,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 22
+    },
+    {
+      "fixture_line": 148,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 23
+    },
+    {
+      "fixture_line": 149,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 24
+    },
+    {
+      "fixture_line": 150,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 25
+    },
+    {
+      "fixture_line": 151,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 26
+    },
+    {
+      "fixture_line": 152,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 27
+    },
+    {
+      "fixture_line": 153,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 28
+    },
+    {
+      "fixture_line": 154,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 29
+    },
+    {
+      "fixture_line": 155,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 30
+    },
+    {
+      "fixture_line": 156,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 31
+    },
+    {
+      "fixture_line": 157,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 32
+    },
+    {
+      "fixture_line": 158,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 33
+    },
+    {
+      "fixture_line": 159,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 34
+    },
+    {
+      "fixture_line": 160,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 35
+    },
+    {
+      "fixture_line": 161,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 36
+    },
+    {
+      "fixture_line": 162,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 37
+    },
+    {
+      "fixture_line": 163,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 38
+    },
+    {
+      "fixture_line": 164,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 39
+    },
+    {
+      "fixture_line": 165,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 40
+    },
+    {
+      "fixture_line": 166,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 41
+    },
+    {
+      "fixture_line": 167,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 42
+    },
+    {
+      "fixture_line": 168,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 45
+    },
+    {
+      "fixture_line": 169,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 46
+    },
+    {
+      "fixture_line": 170,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 47
+    },
+    {
+      "fixture_line": 171,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 48
+    },
+    {
+      "fixture_line": 172,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 49
+    },
+    {
+      "fixture_line": 173,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 50
+    },
+    {
+      "fixture_line": 174,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 51
+    },
+    {
+      "fixture_line": 175,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 52
+    },
+    {
+      "fixture_line": 176,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 53
+    },
+    {
+      "fixture_line": 177,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 54
+    },
+    {
+      "fixture_line": 178,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 55
+    },
+    {
+      "fixture_line": 179,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 56
+    },
+    {
+      "fixture_line": 180,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 57
+    },
+    {
+      "fixture_line": 181,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 58
+    },
+    {
+      "fixture_line": 182,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 59
+    },
+    {
+      "fixture_line": 183,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 62
+    },
+    {
+      "fixture_line": 184,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 63
+    },
+    {
+      "fixture_line": 185,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 64
+    },
+    {
+      "fixture_line": 186,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 65
+    },
+    {
+      "fixture_line": 187,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 66
+    },
+    {
+      "fixture_line": 188,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 67
+    },
+    {
+      "fixture_line": 189,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 68
+    },
+    {
+      "fixture_line": 190,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 69
+    },
+    {
+      "fixture_line": 191,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 70
+    },
+    {
+      "fixture_line": 192,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 71
+    },
+    {
+      "fixture_line": 193,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 72
+    },
+    {
+      "fixture_line": 194,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 73
+    },
+    {
+      "fixture_line": 195,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 74
+    },
+    {
+      "fixture_line": 196,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 75
+    },
+    {
+      "fixture_line": 197,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 76
+    },
+    {
+      "fixture_line": 198,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 79
+    },
+    {
+      "fixture_line": 199,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 80
+    },
+    {
+      "fixture_line": 200,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 81
+    },
+    {
+      "fixture_line": 201,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 82
+    },
+    {
+      "fixture_line": 202,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 83
+    },
+    {
+      "fixture_line": 203,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 84
+    },
+    {
+      "fixture_line": 204,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 85
+    },
+    {
+      "fixture_line": 205,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 86
+    },
+    {
+      "fixture_line": 206,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 87
+    },
+    {
+      "fixture_line": 207,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 88
+    },
+    {
+      "fixture_line": 208,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 89
+    },
+    {
+      "fixture_line": 209,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 90
+    },
+    {
+      "fixture_line": 210,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 91
+    },
+    {
+      "fixture_line": 211,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 92
+    },
+    {
+      "fixture_line": 212,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 93
+    },
+    {
+      "fixture_line": 213,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 94
+    },
+    {
+      "fixture_line": 214,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 95
+    },
+    {
+      "fixture_line": 215,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 96
+    },
+    {
+      "fixture_line": 216,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 97
+    },
+    {
+      "fixture_line": 217,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 98
+    },
+    {
+      "fixture_line": 218,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 99
+    },
+    {
+      "fixture_line": 219,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 100
+    },
+    {
+      "fixture_line": 220,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 101
+    },
+    {
+      "fixture_line": 221,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 102
+    },
+    {
+      "fixture_line": 222,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 103
+    },
+    {
+      "fixture_line": 223,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 104
+    },
+    {
+      "fixture_line": 224,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 105
+    },
+    {
+      "fixture_line": 225,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 106
+    },
+    {
+      "fixture_line": 226,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 107
+    },
+    {
+      "fixture_line": 227,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 108
+    },
+    {
+      "fixture_line": 228,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 109
+    },
+    {
+      "fixture_line": 229,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 110
+    },
+    {
+      "fixture_line": 230,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 111
+    },
+    {
+      "fixture_line": 231,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 112
+    },
+    {
+      "fixture_line": 232,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 113
+    },
+    {
+      "fixture_line": 233,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 114
+    },
+    {
+      "fixture_line": 234,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 115
+    },
+    {
+      "fixture_line": 235,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 116
+    },
+    {
+      "fixture_line": 236,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 117
+    },
+    {
+      "fixture_line": 237,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 118
+    },
+    {
+      "fixture_line": 238,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 119
+    },
+    {
+      "fixture_line": 239,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 120
+    },
+    {
+      "fixture_line": 240,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 121
+    },
+    {
+      "fixture_line": 241,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 122
+    },
+    {
+      "fixture_line": 242,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 123
+    },
+    {
+      "fixture_line": 243,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 124
+    },
+    {
+      "fixture_line": 244,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 125
+    },
+    {
+      "fixture_line": 245,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 126
+    },
+    {
+      "fixture_line": 246,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 127
+    },
+    {
+      "fixture_line": 247,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 128
+    },
+    {
+      "fixture_line": 248,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 129
+    },
+    {
+      "fixture_line": 249,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 130
+    },
+    {
+      "fixture_line": 250,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 131
+    },
+    {
+      "fixture_line": 251,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 132
+    },
+    {
+      "fixture_line": 252,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 133
+    },
+    {
+      "fixture_line": 253,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 134
+    },
+    {
+      "fixture_line": 254,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 135
+    },
+    {
+      "fixture_line": 255,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 136
+    },
+    {
+      "fixture_line": 256,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 137
+    },
+    {
+      "fixture_line": 257,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 138
+    },
+    {
+      "fixture_line": 258,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 139
+    },
+    {
+      "fixture_line": 259,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 140
+    },
+    {
+      "fixture_line": 260,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 141
+    },
+    {
+      "fixture_line": 261,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 142
+    },
+    {
+      "fixture_line": 262,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 143
+    },
+    {
+      "fixture_line": 263,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 144
+    },
+    {
+      "fixture_line": 264,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 145
+    },
+    {
+      "fixture_line": 265,
+      "kind": "wire",
+      "original_file": "serial-20261023T141223Z.log",
+      "original_line": 146
+    }
+  ]
+}
